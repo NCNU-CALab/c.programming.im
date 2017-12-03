@@ -14,3 +14,4 @@
 * [計算第 N 項費氏數列](example/fibonacci-number.md)
 * [判斷輸入值是否為質數](example/input-is-prime-number-or-not.md)
 * [檔案開啟](example/open-file.md)
+* [計算車資](example/taxi-fee-calculator.md)
