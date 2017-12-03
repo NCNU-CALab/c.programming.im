@@ -11,3 +11,4 @@
 * [找最大最小值](example/find-max-min.md)
 * [找 1 ~ N 的所有質數](example/find-prime-numbers.md)
 * [最小公倍數](example/least-common-multiple.md)
+* [計算第 N 項費氏數列](example/fibonacci-number.md)
