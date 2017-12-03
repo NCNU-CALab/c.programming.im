@@ -8,3 +8,4 @@
 
 * [求平均值](example/avg.md)
 * [計算 1 ~ N 的總和](example/sum(1,n).md)
+* [找最大最小值](example/find-max-min.md)
