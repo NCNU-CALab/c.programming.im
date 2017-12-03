@@ -13,3 +13,4 @@
 * [最小公倍數](example/least-common-multiple.md)
 * [計算第 N 項費氏數列](example/fibonacci-number.md)
 * [判斷輸入值是否為質數](example/input-is-prime-number-or-not.md)
+* [檔案開啟](example/open-file.md)
