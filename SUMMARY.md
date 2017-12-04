@@ -4,6 +4,7 @@
 * [程式寫作概論](writing-intro.md)
 * [電腦系統概論](system-intro.md)
 * [電腦內部運作](system-operation.md)
+* [C 語言的總覽](c-intro.md)
 * ...
 
 ## 範例
